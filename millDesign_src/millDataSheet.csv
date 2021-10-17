@@ -1,0 +1,32 @@
+﻿Mill_Property,Value,Description
+Name of Mill,SAG 3, 
+Type of Mill,SAG,SAG/AG/Ball/Rod
+Manufacturer,FLS, 
+Diameter ID [m],11.555,38FT
+Length of Shell [m],6.11,20FT
+FE Trunnion ID [m],2350, 
+DE Trunnion ID [m],2718, 
+Grate Discharge,Y, 
+Overflow,Y, 
+Mill Operation,Wet, 
+Cone Angle [Degrees],15, 
+No. of Rows Drilled [Shell],34, 
+No. of Rows Drilled [FE & DE Heads],16, 
+Bolt Size [mm],48, 
+Rubber Backing Thickness [mm],6, 
+Reline Machine (Make),RME, 
+SWL Capacity (kgs),4000, 
+Mill Speed Range [RPM],9.26-10.2,Min-Max
+Typical RPM,10.2, 
+Mill Speed Range [RPM],73.8-81.5, 
+Typical %Nc,82,
+Variable / Fixed Speed,Variable, 
+Uni / Bi-Directional,Bi, 
+Direction of Rotation - FE to DE, , 
+Total % Mill Volume,31.6, 
+% Steel Ball Load:,21, 
+Top Size Steel Ball [mm],140,"5.5"""
+Ore Feed Size F80 [mm],127, 
+Ore Passing Size P80 [mm],1.117, 
+New Feed [tph],4345, 
+Recycle Load [tph],1200, 
